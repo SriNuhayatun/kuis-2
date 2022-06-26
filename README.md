@@ -11,5 +11,5 @@ Contoh:
 ```JSX  
 const element=<H1>Hello, World!</H1>;  
 ```
-Sumber: hps://reactjs.org/
+Sumber : https://reactjs.org/
 
